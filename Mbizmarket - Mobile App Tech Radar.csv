@@ -8,7 +8,7 @@ Kotlin,Hold,Languages & Frameworks,FALSE,
 Swift,Hold,Languages & Frameworks,FALSE,
 Dart 2.18,Adopt,Languages & Frameworks,FALSE,
 Flutter 3.0,Adopt,Languages & Frameworks,FALSE,
-get,Adopt,Dependencies,FALSE,"<a href='https://pub.dev/packages/get'>Get at pub.dev</a>"
+get,Adopt,Libraries & Dependencies,FALSE,<a href='https://pub.dev/packages/get'>Get at pub.dev</a>
 font_awesome_flutter,Adopt,Libraries & Dependencies,FALSE,
 carousel_slider,Adopt,Libraries & Dependencies,FALSE,
 cached_network_image,Adopt,Libraries & Dependencies,FALSE,
