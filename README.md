@@ -1,7 +1,7 @@
 # Mbizmarket Mobile Apps Tech Radar
-* **Mobile:** https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Falfarisi94%2Fmbizmarket-tech-radar%2Fmaster%2FDMP%2520-%2520Mobile%2520App%2520Tech%2520Radar.csv
-* **Frontend (Web):**
-* **Backend:**
+* **Mobile:** https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Falfarisi94%2Fmbizmarket-tech-radar%2Fmaster%2FMbizmarket%2520-%2520Mobile%2520App%2520Tech%2520Radar.csv
+* **Frontend (Web):** https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Falfarisi94%2Fmbizmarket-tech-radar%2Fmaster%2FMbizmarket%2520-%2520Web%2520Tech%2520Radar.csv
+* **Backend:** N/A
 
 # What is Tech Radar?
 List of technologies, complemented by an assessment result, called Ring Assignment. We use four rings with following semantics:
