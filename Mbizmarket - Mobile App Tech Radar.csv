@@ -4,8 +4,8 @@ iOS,Assess,Platform,TRUE,
 Windows,Hold,Platform,TRUE,
 Linux,Hold,Platform,TRUE,
 MacOS,Hold,Platform,TRUE,"<p>Building macOS apps with Flutter, including shell integration and distribution of macOS apps through the Apple Store</p>"
-Kotlin,Adopt,Languages & Frameworks,FALSE,<p>Create custom plugin using Android native Kotlin.</p>
-Swift,Adopt,Languages & Frameworks,FALSE,<p>Create custom plugin using iOS native Swift.</p>
+Kotlin,Adopt,Languages & Frameworks,FALSE,"<p>Create custom plugin using Android native Kotlin.</p>"
+Swift,Adopt,Languages & Frameworks,FALSE,"<p>Create custom plugin using iOS native Swift.</p>"
 Dart 2.18,Adopt,Languages & Frameworks,FALSE,
 Flutter 3.0,Adopt,Languages & Frameworks,FALSE,
 get,Adopt,Libraries & Dependencies,FALSE,<a href='https://pub.dev/packages/get'>Get at pub.dev</a>
