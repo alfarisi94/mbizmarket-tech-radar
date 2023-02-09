@@ -2,10 +2,6 @@
 
 Tech Radar for Mbizmarket's Mobile App. List of technologies, complemented by an assessment result, called Ring Assignment. We use four rings with following semantics:
 
-# Mbizmarket Mobile Apps Tech Radar
-
-Tech Radar for Mbizmarket's Mobile App. List of technologies, complemented by an assessment result, called Ring Assignment. We use four rings with following semantics:
-
 * **Mobile:** https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Falfarisi94%2Fmbizmarket-tech-radar%2Fmaster%2FDMP%2520-%2520Mobile%2520App%2520Tech%2520Radar.csv
 * **Frontend (Web):**
 * **Backend:**
